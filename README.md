@@ -28,7 +28,7 @@ This tool supports the following operations:
 - **Version Control:** Git & GitHub
 
 ## 📸 Output Screenshot
-![Program Output](Output.png)
+![Program Output](Output.jpng)
 
 ## 🔮 Future Scope
 In future versions, I plan to add:
