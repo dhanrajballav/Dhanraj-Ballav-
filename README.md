@@ -28,7 +28,7 @@ This tool supports the following operations:
 - **Version Control:** Git & GitHub
 
 ## 📸 Output Screenshot
-![Program Output](output.png)
+![Program Output](Output.png)
 
 ## 🔮 Future Scope
 In future versions, I plan to add:
